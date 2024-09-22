@@ -7,7 +7,8 @@
 - Evaluate Price Volatility: Investigate the drivers of price fluctuations and assess the impact of geopolitical events, economic indicators, and market sentiment.
 - Forecast Future Trends: Employ predictive modeling techniques to forecast future energy prices, production levels, and consumption patterns.
 - Identify Efficiency Opportunities: Explore potential areas for energy efficiency improvements and cost savings within the oil and gas industry.
-- Key Features:
+
+### Key Features:
 
 - Data Cleaning and Preparation: Rigorous data cleaning and preprocessing to ensure data quality and accuracy.
 - Exploratory Data Analysis (EDA): In-depth EDA using statistical methods and visualizations to uncover insights.
